@@ -19,12 +19,12 @@ Run the script by providing the username and country as command-line arguments. 
 
 The terminal call is written in the following way: 
 
-python main.py &lt username &gt '<'country'>'
+python main.py &lt;username&gt; &lt;country&gt;
 
 ## Example Calls:
-United States: python main.py '<username'>' united states
+United States: python main.py &lt;username&gt; united states
 
-Canada: python main.py '<'username'>' canada
+Canada: python main.py &lt;username&gt; canada
 
 ## Notes:
 - Make sure to set up a Spotify Developer account and obtain API credentials if you haven't already.
