@@ -18,10 +18,12 @@ Packages required: spotipy, requests, decouple, os
 Run the script by providing the username and country as command-line arguments. The username is your Spotify username, and the country is the name of the country you want to generate the playlist for. The supported countries are stated in countrycodes.py. 
 
 The terminal call is written in the following way: 
+
 python main.py <username> <country>
 
 # Example Calls:
 United States: python main.py <username> united states
+
 Canada: python main.py <username> canada
 
 # Notes:
