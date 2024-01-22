@@ -11,7 +11,7 @@ country_dict = {
  'canada': 'CA',
  'chile': 'CL',
  'colombia': 'CO',
- 'costa Rica': 'CR',
+ 'costa rica': 'CR',
  'cyprus': 'CY',
  'czech republic': 'CZ',
  'denmark': 'DK',
