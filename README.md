@@ -19,7 +19,7 @@ Run the script by providing the username and country as command-line arguments. 
 
 The terminal call is written in the following way: 
 
-python main.py '<'username'>' '<'country'>'
+python main.py &lt username &gt '<'country'>'
 
 ## Example Calls:
 United States: python main.py '<username'>' united states
