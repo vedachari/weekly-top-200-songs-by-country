@@ -1,4 +1,4 @@
-# weekly-top-200-songs-by-country
+# Spotify Top 200 Playlist Generator
 ## Overview
 
 This Python script allows you to generate a Spotify playlist containing the top 200 songs of a specific country using the Spotify Charts API. The script scrapes the Spotify Charts website to gather the song data and creates a playlist for the specified country.
